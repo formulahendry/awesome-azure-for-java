@@ -20,7 +20,6 @@ A curated list of awesome Azure projects and resources for Java.
 - [JDK 8](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.JDK8onWindowsServer2012R2) - Java SE 8 (Oracle) running on Windows Server 2012 R2.
 - [Apache Tomcat 8](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.ApacheTomcat7) - Develop your Java website using Apache Tomcat. Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies.
 - [Oracle WebLogic Server 12.1.2](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Oracle.OracleWebLogicServer12cEnterprise) - Oracle WebLogic Server 12c Enterprise Edition is a leading Java EE application server, delivering next-generation applications on a mission-critical cloud platform, with native cloud management, and integrated tools.
-- [IBM WebSphere Application Server V8.5](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/msopentech.was-8-5) - BM WebSphere Application Server provides an industry-leading solution and application foundation offering a broad range of programming model choices to support applications that are built for businesses of any size.
 
 ## SDKs
 
