@@ -18,7 +18,6 @@ A curated list of awesome Azure projects and resources for Java.
 ## Featured Java stacks on Azure
 
 - [Apache Tomcat 8](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.ApacheTomcat7) - Develop your Java website using Apache Tomcat. Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies.
-- [Oracle WebLogic Server 12.1.2](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Oracle.OracleWebLogicServer12cEnterprise) - Oracle WebLogic Server 12c Enterprise Edition is a leading Java EE application server, delivering next-generation applications on a mission-critical cloud platform, with native cloud management, and integrated tools.
 
 ## SDKs
 
