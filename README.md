@@ -11,9 +11,7 @@ A curated list of awesome Azure projects and resources for Java.
 ## Get started
 
 - [Java Developer Center](https://azure.microsoft.com/en-us/develop/java/) - Azure makes it easy to deploy and scale Java apps, using the tools you know and love.
-- [Deploy a Java web app on a Linux VM](https://easycreate.azure.com/) - This service automatically creates a Linux VM on Microsoft Azure running Tomcat ready for your Java code deployment. FTP/SCP/SSH is set up automatically.
 - [Deploy a Java web app on App Service](https://azure.microsoft.com/en-us/try/app-service/web/?language=java) - Azure App Service is a cloud offering that integrates everything you need to quickly and easily build web and mobile apps for any platform or device.
-- [Deploy a Java web app on Docker](https://easycreate.azure.com/dockerVM) - This service automatically deploys a Java web app on Docker.
 
 ## Featured Java stacks on Azure
 
